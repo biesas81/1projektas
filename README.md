@@ -1,3 +1,3 @@
-Sveiki 
+## Sveiki
 
-mokinames kurti
+*savarankiškai darome readme failą*
