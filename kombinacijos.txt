@@ -1,0 +1,8 @@
+ctrl + s (cmd + s) - failo išsaugojimas
+ctrl + c (cmd + c) - kopijavimas
+ctrl + v (cmd + v) - paste
+ctrl + z (cmd + z) - atgal (undo)
+ctrl + y (cmd + y) - į priekį (redo)
+ctrl + f (cmd + f) - paieška faile
+shift + alt + up (shit+alt+up) - kopijuoja pasirinktą eilutę į viršų
+shift + alt + down (shit+alt+down) - kopijuoja pasirinktą eilutę į apačią
